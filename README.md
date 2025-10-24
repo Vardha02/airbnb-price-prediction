@@ -1,0 +1,3 @@
+# airbnb-price-prediction
+Humans express their feelings through facial expressions, but computers cannot easily understand these emotions. Detecting facial expressions is difficult because people show emotions in different ways, and factors like lighting or image quality can affect accuracy.
+The main problem is to build a system that can automatically detect and recognize different facial expressions such as happy, sad, angry, surprised, and neutral. This project uses deep learning, especially Convolutional Neural Networks (CNNs), to train a model that can identify emotions from facial images accurately.
